@@ -1,5 +1,5 @@
 {
-  "name": "JVerification",
+  "name": "JVerification-noidfa",
   "version": "2.6.7",
   "summary": "Offically supported JVerification iOS SDK Pod. 官方支持的 SDK.",
   "description": "JVerification SDK for iOS. \n极光认证整合了三大运营商的号码认证能力，为开发者提供了快速验证用户输入的手机号码和本机SIM卡号码一致性的功能，提高用户体验和安全性",
