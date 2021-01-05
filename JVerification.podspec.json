@@ -7,9 +7,9 @@
   "license": "MIT",
   "authors": {
     "JPush": "support@jpush.cn"
-  }, 
+  },
   "source": {
-    "git": "https://github.com/SSBun/JVerification.git"
+    "http": "https://sdkfiledl.jiguang.cn/cocoapods/jverification/JVerification-iOS-2.6.7.zip"
   },
   "platforms": {
     "ios": "8.0"
@@ -28,6 +28,7 @@
     "CoreAudio",
     "Security",
     "CoreLocation",
+    "AdSupport",
     "MobileCoreServices",
     "WebKit"
   ],
