@@ -8,6 +8,9 @@
   "authors": {
     "JPush": "support@jpush.cn"
   }, 
+  "source": {
+    "git": "https://github.com/SSBun/JVerification.git"
+  },
   "platforms": {
     "ios": "8.0"
   },
