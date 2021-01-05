@@ -7,10 +7,7 @@
   "license": "MIT",
   "authors": {
     "JPush": "support@jpush.cn"
-  },
-  "source": {
-    "http": "https://sdkfiledl.jiguang.cn/cocoapods/jverification/JVerification-iOS-2.6.7.zip"
-  },
+  }, 
   "platforms": {
     "ios": "8.0"
   },
