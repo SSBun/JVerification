@@ -28,7 +28,6 @@
     "CoreAudio",
     "Security",
     "CoreLocation",
-    "AdSupport",
     "MobileCoreServices",
     "WebKit"
   ],
